@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Master's student in Computer Science at Illinois Institute of Technology with expertise in data engineering, data analysis, and big data technologies. Passionate about leveraging cloud platforms and machine learning to create data-driven solutions. I thrive in fast-paced environments and enjoy collaborating on innovative projects to solve real-world problems.
+I am a CS grad student at Illinois Institute of Technology with expertise in data engineering, data analysis, and big data technologies. Passionate about leveraging cloud platforms and machine learning to create data-driven solutions. I thrive in fast-paced environments and enjoy collaborating on innovative projects to solve real-world problems.
 
 
 ## 🌐 Socials:
