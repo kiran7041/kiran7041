@@ -1,6 +1,12 @@
-# 💫 About Me:
+# 🏄‍♂️ Kiran K Venkatesh
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
 I am a CS grad student at Illinois Institute of Technology with expertise in data engineering, data analysis, and big data technologies. Passionate about leveraging cloud platforms and machine learning to create data-driven solutions. I thrive in fast-paced environments and enjoy collaborating on innovative projects to solve real-world problems.
 
+<a href="https://www.linkedin.com/in/kiran-k-venkatesh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-k-venkatesh/) 
