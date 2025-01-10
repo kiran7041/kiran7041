@@ -14,13 +14,8 @@ I am a CS grad student at Illinois Institute of Technology with expertise in dat
 
 
 ### ✍️ Favorite Quote
-![My Favorite Quote](https://quotes-github-readme.vercel.app/api?quote=A+cat+that+dreams+of+becoming+a+lion+must+lose+its+appetite+for+rats&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=kiran7041&icon=0&color=0)](https://visitcount.itsvg.in)
+![My Favorite Quote](https://quotes-github-readme.vercel.app/api?type=horizontal,quote=A+cat+that+dreams+of+becoming+a+lion+must+lose+its+appetite+for+rats&theme=tokyonight)
 
 
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
