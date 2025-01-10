@@ -4,6 +4,12 @@
 
 I am a CS grad student at Illinois Institute of Technology with expertise in data engineering, data analysis, and big data technologies. Passionate about leveraging cloud platforms and machine learning to create data-driven solutions. I thrive in fast-paced environments and enjoy collaborating on innovative projects to solve real-world problems.
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt=" Kiran K Venkatesh" /></a>
+</p>
+
 ## Socials:
 <a href="https://www.linkedin.com/in/kiran-k-venkatesh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 
