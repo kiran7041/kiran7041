@@ -1,4 +1,4 @@
-# 🏄‍♂️ Kiran K Venkatesh
+# Kiran K Venkatesh
 
 **`Data Engineer/Big Data Developer`**
 
